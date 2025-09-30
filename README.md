@@ -13,6 +13,7 @@
 - [divisibility_and_congruences-i-lim-dec23.pdf](olympiad/camp_notes/divisibility_and_congruences-i-lim-dec23.pdf)
 - [divisibility_and_congruences-i-lim-mar22.pdf](olympiad/camp_notes/divisibility_and_congruences-i-lim-mar22.pdf)
 - [equations_functions_graphs-i-lim-mar19.pdf](olympiad/camp_notes/equations_functions_graphs-i-lim-mar19.pdf)
+- [functional_equations-i-lim-mar22.pdf](olympiad/camp_notes/functional_equations-i-lim-mar22.pdf)
 - [invariants-i-lim-dec20.pdf](olympiad/camp_notes/invariants-i-lim-dec20.pdf)
 - [lengths_and_areas-i-lim-dec24.pdf](olympiad/camp_notes/lengths_and_areas-i-lim-dec24.pdf)
 - [projective_inversive_geometry-s-lim-dec23.pdf](olympiad/camp_notes/projective_inversive_geometry-s-lim-dec23.pdf)
