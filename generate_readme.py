@@ -1,4 +1,5 @@
 import os
+import datetime as dt
 
 def generate_readme(base_dir="olympiad"):
     sections = []
@@ -27,8 +28,9 @@ def generate_readme(base_dir="olympiad"):
 
         sections.append("\n".join(section_lines))
 
+    date_str = dt.datetime.now().strftime("%Y-%m-%d")
     # Assemble README
-    readme = "# Olympiad Lecture Notes\n\n---\n\n" + "\n\n---\n\n".join(sections)
+    readme = f"# Olympiad Lecture Notes (last updated {date_str})\n\n---\n\n" + "\n\n---\n\n".join(sections)
     return readme
 
 if __name__ == "__main__":

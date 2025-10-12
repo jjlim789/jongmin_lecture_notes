@@ -1,4 +1,4 @@
-# Olympiad Lecture Notes
+# Olympiad Lecture Notes (last updated 2025-10-12)
 
 ---
 
