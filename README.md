@@ -1,4 +1,4 @@
-# Olympiad Lecture Notes (last updated 2025-11-16)
+# Olympiad Lecture Notes (last updated 2025-11-19)
 
 💬 [Give Feedback](https://forms.gle/WeTzzrRcHzLPqM8RA)
 
