@@ -61,7 +61,8 @@ def generate_readme(base_dir="olympiad"):
     date_str = dt.datetime.now().strftime("%Y-%m-%d")
 
     readme = (
-        f"# Olympiad Lecture Notes (last updated {date_str})\n\n"
+        f"# Olympiad Lecture Notes\n\n"
+        f"(last updated {date_str})\n\n"
         f"💬 [Give Feedback](https://forms.gle/WeTzzrRcHzLPqM8RA)\n\n"
         "---\n\n"
         + "\n---\n\n".join(sections)
