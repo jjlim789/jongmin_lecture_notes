@@ -11,7 +11,7 @@ last updated 2026-02-12
 ### Algebra
 
 - [equations_functions_graphs-i-lim-mar19.pdf](olympiad/camp_notes/algebra/equations_functions_graphs-i-lim-mar19.pdf)
-- [functional_equations-s-lim-dec25.pdf](olympiad/camp_notes/algebra/functional_equations-s-lim-dec25.pdf)
+- [functional_equations-s-lim.pdf](olympiad/camp_notes/algebra/functional_equations-s-lim.pdf)
 - [sequences-s-lim-apr20.pdf](olympiad/camp_notes/algebra/sequences-s-lim-apr20.pdf)
 
 ### Combinatorics
