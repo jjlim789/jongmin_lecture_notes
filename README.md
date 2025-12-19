@@ -1,6 +1,6 @@
-# Olympiad Lecture Notes
+# Math Olympiad Lecture Notes
 
-(last updated 2025-12-19)
+last updated 2025-12-19
 
 💬 [Give Feedback](https://forms.gle/WeTzzrRcHzLPqM8RA)
 
