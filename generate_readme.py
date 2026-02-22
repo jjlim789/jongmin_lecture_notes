@@ -56,7 +56,8 @@ def generate_readme(base_dir="olympiad"):
 
     # Process the two known categories
     process_category("Camp Notes", "camp_notes")
-    process_category("Geometry Lectures", "geometry_lectures")
+    process_category("Geometry Notes", "geometry_notes")
+    process_category("Student Notes", "student_notes")
 
     date_str = dt.datetime.now().strftime("%Y-%m-%d")
 

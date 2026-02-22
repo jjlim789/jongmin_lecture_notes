@@ -1,6 +1,6 @@
 # Math Olympiad Lecture Notes
 
-last updated 2026-02-18
+last updated 2026-02-22
 
 💬 [Give Feedback](https://forms.gle/WeTzzrRcHzLPqM8RA)
 
@@ -37,13 +37,19 @@ last updated 2026-02-18
 
 ---
 
-## 📂 Geometry Lectures (`olympiad/geometry_lectures`)
+## 📂 Geometry Notes (`olympiad/geometry_notes`)
 
-- [1. Angle chasing.pdf](olympiad/geometry_lectures/1. Angle chasing.pdf)
-- [2. Length chasing.pdf](olympiad/geometry_lectures/2. Length chasing.pdf)
-- [3. Nine point circle.pdf](olympiad/geometry_lectures/3. Nine point circle.pdf)
-- [4. Dilation.pdf](olympiad/geometry_lectures/4. Dilation.pdf)
-- [5. Power of a point.pdf](olympiad/geometry_lectures/5. Power of a point.pdf)
-- [6. Spiral Similarity.pdf](olympiad/geometry_lectures/6. Spiral Similarity.pdf)
-- [7. Harmonic points.pdf](olympiad/geometry_lectures/7. Harmonic points.pdf)
-- [8. Hard problems.pdf](olympiad/geometry_lectures/8. Hard problems.pdf)
+- [1. Angle chasing.pdf](olympiad/geometry_notes/1. Angle chasing.pdf)
+- [2. Length chasing.pdf](olympiad/geometry_notes/2. Length chasing.pdf)
+- [3. Nine point circle.pdf](olympiad/geometry_notes/3. Nine point circle.pdf)
+- [4. Dilation.pdf](olympiad/geometry_notes/4. Dilation.pdf)
+- [5. Power of a point.pdf](olympiad/geometry_notes/5. Power of a point.pdf)
+- [6. Spiral Similarity.pdf](olympiad/geometry_notes/6. Spiral Similarity.pdf)
+- [7. Harmonic points.pdf](olympiad/geometry_notes/7. Harmonic points.pdf)
+- [8. Hard problems.pdf](olympiad/geometry_notes/8. Hard problems.pdf)
+
+---
+
+## 📂 Student Notes (`olympiad/student_notes`)
+
+- [inequalities-amber_li-dec25.pdf](olympiad/student_notes/inequalities-amber_li-dec25.pdf)
