@@ -1,6 +1,6 @@
 # Math Olympiad Lecture Notes
 
-last updated 2026-02-22
+last updated 2026-03-01
 
 💬 [Give Feedback](https://forms.gle/WeTzzrRcHzLPqM8RA)
 
@@ -12,6 +12,7 @@ last updated 2026-02-22
 
 - [equations_functions_graphs-i-lim-mar19.pdf](olympiad/camp_notes/algebra/equations_functions_graphs-i-lim-mar19.pdf)
 - [functional_equations-s-lim.pdf](olympiad/camp_notes/algebra/functional_equations-s-lim.pdf)
+- [inequalities-amber_li-dec25.pdf](olympiad/camp_notes/algebra/inequalities-amber_li-dec25.pdf)
 - [sequences-s-lim-apr20.pdf](olympiad/camp_notes/algebra/sequences-s-lim-apr20.pdf)
 
 ### Combinatorics
@@ -47,9 +48,3 @@ last updated 2026-02-22
 - [6. Spiral Similarity.pdf](olympiad/geometry_notes/6. Spiral Similarity.pdf)
 - [7. Harmonic points.pdf](olympiad/geometry_notes/7. Harmonic points.pdf)
 - [8. Hard problems.pdf](olympiad/geometry_notes/8. Hard problems.pdf)
-
----
-
-## 📂 Student Notes (`olympiad/student_notes`)
-
-- [inequalities-amber_li-dec25.pdf](olympiad/student_notes/inequalities-amber_li-dec25.pdf)
