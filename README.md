@@ -27,8 +27,8 @@ last updated 2026-04-22
 ### Geometry
 
 - [angle_chasing-i-lim-dec20.pdf](olympiad/camp_notes/geometry/angle_chasing-i-lim-dec20.pdf)
+- [inversions_and_projections-s-lim-apr26.pdf](olympiad/camp_notes/geometry/inversions_and_projections-s-lim-apr26.pdf)
 - [lengths_and_areas-i-lim-dec24.pdf](olympiad/camp_notes/geometry/lengths_and_areas-i-lim-dec24.pdf)
-- [projective_inversive_geometry-s-lim-dec23.pdf](olympiad/camp_notes/geometry/projective_inversive_geometry-s-lim-dec23.pdf)
 - [similarity_transformations-s-lim-dec25.pdf](olympiad/camp_notes/geometry/similarity_transformations-s-lim-dec25.pdf)
 
 ### Number Theory
