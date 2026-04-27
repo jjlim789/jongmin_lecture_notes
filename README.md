@@ -1,50 +1,45 @@
 # Math Olympiad Lecture Notes
 
-last updated 2026-04-22
+Last updated: 2026-04-27
 
 💬 [Give Feedback](https://forms.gle/WeTzzrRcHzLPqM8RA)
 
 ---
 
-## 📂 Camp Notes (`olympiad/camp_notes`)
+## 📂 Algebra
 
-### Algebra
-
-- [equations_functions_graphs-i-lim-mar19.pdf](olympiad/camp_notes/algebra/equations_functions_graphs-i-lim-mar19.pdf)
-- [functional_equations-s-lim.pdf](olympiad/camp_notes/algebra/functional_equations-s-lim.pdf)
-- [inequalities-amber_li-dec25.pdf](olympiad/camp_notes/algebra/inequalities-amber_li-dec25.pdf)
-- [sequences-s-lim-apr20.pdf](olympiad/camp_notes/algebra/sequences-s-lim-apr20.pdf)
-
-### Combinatorics
-
-- [algorithms_and_invariants-s-lim-dec25.pdf](olympiad/camp_notes/combinatorics/algorithms_and_invariants-s-lim-dec25.pdf)
-- [basic-combinatorics-j-lim-mar19.pdf](olympiad/camp_notes/combinatorics/basic-combinatorics-j-lim-mar19.pdf)
-- [bijections-i-lim-dec17.pdf](olympiad/camp_notes/combinatorics/bijections-i-lim-dec17.pdf)
-- [combinatorial_number_theory-i-lim-mar22.pdf](olympiad/camp_notes/combinatorics/combinatorial_number_theory-i-lim-mar22.pdf)
-- [combinatorics_exercises.pdf](olympiad/camp_notes/combinatorics/combinatorics_exercises.pdf)
-- [invariants-i-lim-dec20.pdf](olympiad/camp_notes/combinatorics/invariants-i-lim-dec20.pdf)
-
-### Geometry
-
-- [angle_chasing-i-lim-dec20.pdf](olympiad/camp_notes/geometry/angle_chasing-i-lim-dec20.pdf)
-- [inversions_and_projections-s-lim-apr26.pdf](olympiad/camp_notes/geometry/inversions_and_projections-s-lim-apr26.pdf)
-- [lengths_and_areas-i-lim-dec24.pdf](olympiad/camp_notes/geometry/lengths_and_areas-i-lim-dec24.pdf)
-- [similarity_transformations-s-lim-dec25.pdf](olympiad/camp_notes/geometry/similarity_transformations-s-lim-dec25.pdf)
-
-### Number Theory
-
-- [bounding-arguments-i-lim-dec25.pdf](olympiad/camp_notes/number_theory/bounding-arguments-i-lim-dec25.pdf)
-- [divisibility_and_congruences-i-lim-dec23.pdf](olympiad/camp_notes/number_theory/divisibility_and_congruences-i-lim-dec23.pdf)
+- [equations_functions_graphs-i-lim-mar19.pdf](olympiad/algebra/equations_functions_graphs-i-lim-mar19.pdf)
+- [functional_equations-s-lim.pdf](olympiad/algebra/functional_equations-s-lim.pdf)
+- [inequalities-amber_li-dec25.pdf](olympiad/algebra/inequalities-amber_li-dec25.pdf)
+- [sequences-s-lim-apr20.pdf](olympiad/algebra/sequences-s-lim-apr20.pdf)
 
 ---
 
-## 📂 Geometry Notes (`olympiad/geometry_notes`)
+## 📂 Combinatorics
 
-- [1. Angle chasing.pdf](olympiad/geometry_notes/1. Angle chasing.pdf)
-- [2. Length chasing.pdf](olympiad/geometry_notes/2. Length chasing.pdf)
-- [3. Nine point circle.pdf](olympiad/geometry_notes/3. Nine point circle.pdf)
-- [4. Dilation.pdf](olympiad/geometry_notes/4. Dilation.pdf)
-- [5. Power of a point.pdf](olympiad/geometry_notes/5. Power of a point.pdf)
-- [6. Spiral Similarity.pdf](olympiad/geometry_notes/6. Spiral Similarity.pdf)
-- [7. Harmonic points.pdf](olympiad/geometry_notes/7. Harmonic points.pdf)
-- [8. Hard problems.pdf](olympiad/geometry_notes/8. Hard problems.pdf)
+- [algorithms_and_invariants-s-lim-dec25.pdf](olympiad/combinatorics/algorithms_and_invariants-s-lim-dec25.pdf)
+- [basic-combinatorics-j-lim-mar19.pdf](olympiad/combinatorics/basic-combinatorics-j-lim-mar19.pdf)
+- [bijections-i-lim-dec17.pdf](olympiad/combinatorics/bijections-i-lim-dec17.pdf)
+- [combinatorial_number_theory-i-lim-mar22.pdf](olympiad/combinatorics/combinatorial_number_theory-i-lim-mar22.pdf)
+- [combinatorics_exercises.pdf](olympiad/combinatorics/combinatorics_exercises.pdf)
+- [invariants-i-lim-dec20.pdf](olympiad/combinatorics/invariants-i-lim-dec20.pdf)
+
+---
+
+## 📂 Geometry
+
+- [1. Angle chasing.pdf](olympiad/geometry/1. Angle chasing.pdf)
+- [2. Length chasing.pdf](olympiad/geometry/2. Length chasing.pdf)
+- [3. Nine point circle.pdf](olympiad/geometry/3. Nine point circle.pdf)
+- [4. Dilation.pdf](olympiad/geometry/4. Dilation.pdf)
+- [5. Power of a point.pdf](olympiad/geometry/5. Power of a point.pdf)
+- [6. Spiral Similarity.pdf](olympiad/geometry/6. Spiral Similarity.pdf)
+- [7. Harmonic points.pdf](olympiad/geometry/7. Harmonic points.pdf)
+- [8. Hard problems.pdf](olympiad/geometry/8. Hard problems.pdf)
+
+---
+
+## 📂 Number Theory
+
+- [bounding-arguments-i-lim-dec25.pdf](olympiad/number_theory/bounding-arguments-i-lim-dec25.pdf)
+- [divisibility_and_congruences-i-lim-dec23.pdf](olympiad/number_theory/divisibility_and_congruences-i-lim-dec23.pdf)

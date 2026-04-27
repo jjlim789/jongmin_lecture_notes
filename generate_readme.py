@@ -4,66 +4,47 @@ import datetime as dt
 def generate_readme(base_dir="olympiad"):
     sections = []
 
-    def process_category(title, folder_name):
-        folder_path = os.path.join(base_dir, folder_name)
-        if not os.path.isdir(folder_path):
-            return
+    # Get all subfolders (subjects) directly under the base_dir
+    if not os.path.isdir(base_dir):
+        print(f"Error: Directory '{base_dir}' not found.")
+        return ""
 
-        section_lines = [f"## 📂 {title} (`{base_dir}/{folder_name}`)", ""]
+    subjects = [
+        name for name in sorted(os.listdir(base_dir))
+        if os.path.isdir(os.path.join(base_dir, name))
+    ]
 
-        # Check if this folder contains subfolders
-        subfolders = [
-            name for name in sorted(os.listdir(folder_path))
-            if os.path.isdir(os.path.join(folder_path, name))
+    for subject in subjects:
+        subject_path = os.path.join(base_dir, subject)
+        
+        # List PDFs inside each subject folder
+        pdf_files = [
+            f for f in sorted(os.listdir(subject_path))
+            if f.endswith(".pdf")
         ]
 
-        if subfolders:
-            # --- Case 1: category has subfolders (camp_notes) ---
-            for subject in subfolders:
-                subject_path = os.path.join(folder_path, subject)
+        if not pdf_files:
+            continue
 
-                # List PDFs inside subject folder
-                pdf_files = [
-                    f for f in os.listdir(subject_path)
-                    if f.endswith(".pdf")
-                ]
-                pdf_files.sort()
+        # Format the title (e.g., "geometry_notes" -> "Geometry Notes")
+        subject_title = subject.replace("_", " ").title()
+        
+        section_lines = [f"## 📂 {subject_title}", ""]
 
-                if not pdf_files:
-                    continue
-
-                subject_title = subject.replace("_", " ").title()
-                section_lines.append(f"### {subject_title}\n")
-
-                for f in pdf_files:
-                    link = f"{base_dir}/{folder_name}/{subject}/{f}".replace("\\", "/")
-                    section_lines.append(f"- [{f}]({link})")
-                section_lines.append("")
-
-        else:
-            # --- Case 2: category has NO subfolders (geometry_lectures) ---
-            pdf_files = [
-                f for f in sorted(os.listdir(folder_path))
-                if f.endswith(".pdf")
-            ]
-
-            for f in pdf_files:
-                link = f"{base_dir}/{folder_name}/{f}".replace("\\", "/")
-                section_lines.append(f"- [{f}]({link})")
-            section_lines.append("")
-
+        for f in pdf_files:
+            # Create the Markdown link
+            link = f"{base_dir}/{subject}/{f}".replace("\\", "/")
+            section_lines.append(f"- [{f}]({link})")
+        
+        section_lines.append("")
         sections.append("\n".join(section_lines))
 
-    # Process the two known categories
-    process_category("Camp Notes", "camp_notes")
-    process_category("Geometry Notes", "geometry_notes")
-    process_category("Student Notes", "student_notes")
-
+    # Construct the final README string
     date_str = dt.datetime.now().strftime("%Y-%m-%d")
 
     readme = (
         f"# Math Olympiad Lecture Notes\n\n"
-        f"last updated {date_str}\n\n"
+        f"Last updated: {date_str}\n\n"
         f"💬 [Give Feedback](https://forms.gle/WeTzzrRcHzLPqM8RA)\n\n"
         "---\n\n"
         + "\n---\n\n".join(sections)
@@ -73,7 +54,10 @@ def generate_readme(base_dir="olympiad"):
 
 
 if __name__ == "__main__":
+    # Ensure this script is run from the parent directory of 'olympiad'
     readme_content = generate_readme("olympiad")
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(readme_content)
-    print("README.md has been updated.")
+    
+    if readme_content:
+        with open("README.md", "w", encoding="utf-8") as f:
+            f.write(readme_content)
+        print("README.md has been updated successfully.")
