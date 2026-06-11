@@ -1,6 +1,6 @@
 # Math Olympiad Lecture Notes
 
-Last updated: 2026-04-27
+Last updated: 2026-06-11
 
 💬 [Give Feedback](https://forms.gle/WeTzzrRcHzLPqM8RA)
 
@@ -12,6 +12,7 @@ Last updated: 2026-04-27
 - [functional_equations-s-lim.pdf](olympiad/algebra/functional_equations-s-lim.pdf)
 - [inequalities-amber_li-dec25.pdf](olympiad/algebra/inequalities-amber_li-dec25.pdf)
 - [sequences-s-lim-apr20.pdf](olympiad/algebra/sequences-s-lim-apr20.pdf)
+- [sequences_and_summations-s-lim.pdf](olympiad/algebra/sequences_and_summations-s-lim.pdf)
 
 ---
 
