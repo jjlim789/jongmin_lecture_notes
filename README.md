@@ -11,8 +11,7 @@ Last updated: 2026-06-11
 - [equations_functions_graphs-i-lim-mar19.pdf](olympiad/algebra/equations_functions_graphs-i-lim-mar19.pdf)
 - [functional_equations-s-lim.pdf](olympiad/algebra/functional_equations-s-lim.pdf)
 - [inequalities-amber_li-dec25.pdf](olympiad/algebra/inequalities-amber_li-dec25.pdf)
-- [sequences-s-lim-apr20.pdf](olympiad/algebra/sequences-s-lim-apr20.pdf)
-- [sequences_and_summations-s-lim.pdf](olympiad/algebra/sequences_and_summations-s-lim.pdf)
+- [sequences-s-lim.pdf](olympiad/algebra/sequences-s-lim.pdf)
 
 ---
 
