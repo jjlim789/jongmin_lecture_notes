@@ -8,7 +8,6 @@ Last updated: 2026-06-14
 
 ## 📂 Algebra
 
-- [equations_functions_graphs-i-lim-mar19.pdf](olympiad/algebra/equations_functions_graphs-i-lim-mar19.pdf)
 - [functional_equations-s-lim.pdf](olympiad/algebra/functional_equations-s-lim.pdf)
 - [inequalities-amber_li-dec25.pdf](olympiad/algebra/inequalities-amber_li-dec25.pdf)
 - [sequences-s-lim.pdf](olympiad/algebra/sequences-s-lim.pdf)
@@ -20,9 +19,7 @@ Last updated: 2026-06-14
 - [algorithms_and_invariants-s-lim-dec25.pdf](olympiad/combinatorics/algorithms_and_invariants-s-lim-dec25.pdf)
 - [basic-combinatorics-j-lim-mar19.pdf](olympiad/combinatorics/basic-combinatorics-j-lim-mar19.pdf)
 - [bijections-i-lim-dec17.pdf](olympiad/combinatorics/bijections-i-lim-dec17.pdf)
-- [combinatorial_number_theory-i-lim-mar22.pdf](olympiad/combinatorics/combinatorial_number_theory-i-lim-mar22.pdf)
 - [combinatorics_exercises.pdf](olympiad/combinatorics/combinatorics_exercises.pdf)
-- [invariants-i-lim-dec20.pdf](olympiad/combinatorics/invariants-i-lim-dec20.pdf)
 
 ---
 
