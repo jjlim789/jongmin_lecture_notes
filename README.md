@@ -1,6 +1,6 @@
 # Math Olympiad Lecture Notes
 
-Last updated: 2026-06-26
+Last updated: 2026-11-17
 
 💬 [Give Feedback](https://forms.gle/WeTzzrRcHzLPqM8RA)
 
@@ -39,4 +39,4 @@ Last updated: 2026-06-26
 ## 📂 Number Theory
 
 - [bounding-arguments-i-lim-dec25.pdf](olympiad/number_theory/bounding-arguments-i-lim-dec25.pdf)
-- [divisibility_and_congruences-i-lim-dec23.pdf](olympiad/number_theory/divisibility_and_congruences-i-lim-dec23.pdf)
+- [divisibility_and_congruences-j-lim-nov26.pdf](olympiad/number_theory/divisibility_and_congruences-j-lim-nov26.pdf)
